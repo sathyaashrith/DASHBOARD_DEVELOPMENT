@@ -18,8 +18,8 @@ Developing an interactive dashboard is a crucial step in data visualization, all
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/bc22b187-c0c6-4e05-b969-218b2f5f4f5f)
+
 ![Image](https://github.com/user-attachments/assets/11f0da29-fb11-46cc-bbbb-d4190e2008e8)
 
 ![Image](https://github.com/user-attachments/assets/43b84fcb-82a9-4fff-80c6-cec5bf2c3753)
-
-![Image](https://github.com/user-attachments/assets/bc22b187-c0c6-4e05-b969-218b2f5f4f5f)
